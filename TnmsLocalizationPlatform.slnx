@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TnmsLocalizationPlatform.Shared/TnmsLocalizationPlatform.Shared.csproj" />
+  <Project Path="TnmsLocalizationPlatform/TnmsLocalizationPlatform.csproj" />
+</Solution>
